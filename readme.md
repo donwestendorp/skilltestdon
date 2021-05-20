@@ -6,7 +6,7 @@ Please add your WHCC contact to that repo as a collaborator when you're done.
 The purpose of this case study is for us to better understand where your technical expertise is at.
 
 # Description
-Make this scaffolded app look and behave as described in the screenshots and video below.
+Make this scaffolded app look and behave as described in the screenshots and video described in the **Resources** section below.
 
 Some work has already been done in the index.html file.
 Please do not use a framework, just vanilla javascript or typescript.
@@ -25,16 +25,14 @@ You may change anything provided to fit your needs, be it DOM structure, CSS, or
 1. Each section on the sidebar should have a subtitle to describe what it does with the styling demonstrated in the video/screenshots.
 1. The sidebar area should apply clips and filters (provided in the CSS) to the image in the main content area with the styling demonstrated in the video/screenshots.
 
-
-# Core Values of Design
-1. Polished simplicity in the user experience and aesthetic.
-1. Focus on empathy for the user’s experience.
-
 # Resources
 1. Watch an [interaction demo](https://www.loom.com/share/3d399d1bb85c4869aea30df23aaaa7cf) online.
 1. There are screenshots of the initial and populated state available in the `/screenshots` directory.
 1. There are test images available in the `/images` directory.
 
+# Core Values of Design
+1. Polished simplicity in the user experience and aesthetic.
+1. Focus on empathy for the user’s experience.
 
 # Discussion Notes
 1. What decisions did you make before you began development?
