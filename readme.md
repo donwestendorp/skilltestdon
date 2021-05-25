@@ -24,7 +24,7 @@ You may change anything provided to fit your needs, be it DOM structure, CSS, or
 1. The displayed photo should display some metadata about it in the sidebar content area, including the file name, mime-type, and human-readable size of the image.
 1. Each section on the sidebar should have a subtitle to describe what it does with the styling demonstrated in the video/screenshots.
 1. The sidebar area should apply clips and filters (provided in the CSS) to the image in the main content area with the styling demonstrated in the video/screenshots.
-1. The sidebar buttons should look and behave as shown in the images/video.
+1. The app should look and behave as close to the included screenshots/video as possible.
 
 # Resources
 1. Watch an [interaction demo](https://www.loom.com/share/3d399d1bb85c4869aea30df23aaaa7cf) online.
